@@ -41,11 +41,17 @@
 	        </ul>
 	        <h3><b>Education</b></h3>
 	        <ul>
+             Sema Osh high school - <b>Osh</b> 2017-2019
+            <br>
+             H.Karasaev high school - <b>Karakol</b> 2020-2022
+             <br>
 	           Ala-Too university - <b>Bishkek</b>
 	           2022-2023(1-2 semesters) 
+            
+            
 	        </ul>
 		   </div>
-		   <div             style="width:1px;background-color:red;vertical-align:top;margin:0 10px;height:550px;"></div>
+		   <div id="div1"></div>
     <div style="flex:1;">
 		      <h3><b>Professional summary</b></h3>
 		      <p>I am a novice programmer. And I have little experience, but I think that over time I will gain experience and practice.
