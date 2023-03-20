@@ -8,19 +8,18 @@
     <title>Portfolio webpage</title>
 </head>
 <body>
-    <div>
-        <img src="https://upload.wikimedia.org/wikipedia/en/0/07/Ala-Too_International_University_Seal.png" alt="ala-too logo" width="50" height="60" >
-    </div>
     <header>
 		<nav>
-			<a href="/main.html">About</a>
-			<a href="/cv.html">CV</a>
-			<a href="/gallery.html">Gallery</a>
+			<a href="home">Home</a>
+			<a href="CV.html">About</a>
+			<a href="#">Contact</a>
 		</nav>
 	</header>
 	<h1>Welcome to My Website</h1>
 	<p>tyuyhhhggg</p>
 	<h1>About myself</h1>
-	<p>jhhhhbgfrdd</p>
-	
+	<big>Erlan Zhaparov, born in 2004.</big> 
+	<br> 
+	<p>I am a student of the International University "Ala-Too" of the Faculty of Engineering and Informatics, direction "Applied Mathematics and Informatics".</p>
+<p>My hobbies are reading and playing games. I love mathematics, which is why I chose my direction</p><p>I am a very calm and reserved, but more or less sociable person.I prefer to do something quiet and soothing than active actions</p>
 </body>
